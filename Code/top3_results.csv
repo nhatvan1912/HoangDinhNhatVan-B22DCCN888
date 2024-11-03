@@ -1,0 +1,1033 @@
+Attribute,Type,Player,Value
+Playing Time MP,Highest,André Onana,38.0
+Playing Time MP,Highest,Bernd Leno,38.0
+Playing Time MP,Highest,Carlton Morris,38.0
+Playing Time MP,Lowest,Alex Iwobi,2.0
+Playing Time MP,Lowest,Ionuț Radu,2.0
+Playing Time MP,Lowest,Matheus Nunes,2.0
+Playing Time Starts,Highest,André Onana,38.0
+Playing Time Starts,Highest,Bernd Leno,38.0
+Playing Time Starts,Highest,Guglielmo Vicario,38.0
+Playing Time Starts,Lowest,David Ozoh,0.0
+Playing Time Starts,Lowest,Ivan Perišić,0.0
+Playing Time Starts,Lowest,Jesurun Rak Sakyi,0.0
+Playing Time Min,Highest,André Onana,3420.0
+Playing Time Min,Highest,Bernd Leno,3420.0
+Playing Time Min,Highest,Guglielmo Vicario,3420.0
+Playing Time Min,Lowest,John Fleck,92.0
+Playing Time Min,Lowest,Kalvin Phillips,93.0
+Playing Time Min,Lowest,Ivan Perišić,103.0
+Playing Time 90s,Highest,André Onana,38.0
+Playing Time 90s,Highest,Bernd Leno,38.0
+Playing Time 90s,Highest,Guglielmo Vicario,38.0
+Playing Time 90s,Lowest,John Fleck,1.0
+Playing Time 90s,Lowest,Kalvin Phillips,1.0
+Playing Time 90s,Lowest,Ivan Perišić,1.1
+Performance Gls,Highest,Erling Haaland,27.0
+Performance Gls,Highest,Cole Palmer,22.0
+Performance Gls,Highest,Alexander Isak,21.0
+Performance Gls,Lowest,Aaron Cresswell,0.0
+Performance Gls,Lowest,Aaron Hickey,0.0
+Performance Gls,Lowest,Aaron Ramsdale,0.0
+Performance Ast,Highest,Ollie Watkins,13.0
+Performance Ast,Highest,Cole Palmer,11.0
+Performance Ast,Highest,Anthony Gordon,10.0
+Performance Ast,Lowest,Aaron Cresswell,0.0
+Performance Ast,Lowest,Aaron Hickey,0.0
+Performance Ast,Lowest,Aaron Ramsdale,0.0
+Performance G+A,Highest,Cole Palmer,33.0
+Performance G+A,Highest,Erling Haaland,32.0
+Performance G+A,Highest,Ollie Watkins,32.0
+Performance G+A,Lowest,Aaron Cresswell,0.0
+Performance G+A,Lowest,Aaron Hickey,0.0
+Performance G+A,Lowest,Aaron Ramsdale,0.0
+Performance G-PK,Highest,Erling Haaland,20.0
+Performance G-PK,Highest,Ollie Watkins,19.0
+Performance G-PK,Highest,Phil Foden,19.0
+Performance G-PK,Lowest,Aaron Cresswell,0.0
+Performance G-PK,Lowest,Aaron Hickey,0.0
+Performance G-PK,Lowest,Aaron Ramsdale,0.0
+Performance PK,Highest,Cole Palmer,9.0
+Performance PK,Highest,Erling Haaland,7.0
+Performance PK,Highest,Bukayo Saka,6.0
+Performance PK,Lowest,Aaron Cresswell,0.0
+Performance PK,Lowest,Aaron Hickey,0.0
+Performance PK,Lowest,Aaron Ramsdale,0.0
+Performance PKatt,Highest,Cole Palmer,9.0
+Performance PKatt,Highest,Erling Haaland,8.0
+Performance PKatt,Highest,Mohamed Salah,7.0
+Performance PKatt,Lowest,Aaron Cresswell,0.0
+Performance PKatt,Lowest,Aaron Hickey,0.0
+Performance PKatt,Lowest,Aaron Ramsdale,0.0
+Performance CrdY,Highest,João Palhinha,13.0
+Performance CrdY,Highest,Marcos Senesi,13.0
+Performance CrdY,Highest,Anthony Gordon,12.0
+Performance CrdY,Lowest,Aaron Ramsdale,0.0
+Performance CrdY,Lowest,Alex Iwobi,0.0
+Performance CrdY,Lowest,Amari'i Bell,0.0
+Performance CrdR,Highest,Oliver McBurnie,2.0
+Performance CrdR,Highest,Reece James,2.0
+Performance CrdR,Highest,Yves Bissouma,2.0
+Performance CrdR,Lowest,Aaron Cresswell,0.0
+Performance CrdR,Lowest,Aaron Hickey,0.0
+Performance CrdR,Lowest,Aaron Ramsdale,0.0
+Expected xG,Highest,Erling Haaland,29.2
+Expected xG,Highest,Mohamed Salah,21.2
+Expected xG,Highest,Alexander Isak,20.3
+Expected xG,Lowest,Aaron Cresswell,0.0
+Expected xG,Lowest,Aaron Ramsdale,0.0
+Expected xG,Lowest,Alisson,0.0
+Expected npxG,Highest,Erling Haaland,22.9
+Expected npxG,Highest,Nicolas Jackson,18.6
+Expected npxG,Highest,Dominic Solanke,17.2
+Expected npxG,Lowest,Aaron Cresswell,0.0
+Expected npxG,Lowest,Aaron Ramsdale,0.0
+Expected npxG,Lowest,Alisson,0.0
+Expected xAG,Highest,Bruno Fernandes,11.8
+Expected xAG,Highest,Mohamed Salah,11.8
+Expected xAG,Highest,Son Heung-min,11.8
+Expected xAG,Lowest,Aaron Ramsdale,0.0
+Expected xAG,Lowest,Alfie Gilchrist,0.0
+Expected xAG,Lowest,Alisson,0.0
+Expected npxG+xAG,Highest,Mohamed Salah,27.3
+Expected npxG+xAG,Highest,Erling Haaland,27.2
+Expected npxG+xAG,Highest,Ollie Watkins,24.2
+Expected npxG+xAG,Lowest,Aaron Ramsdale,0.0
+Expected npxG+xAG,Lowest,Alisson,0.0
+Expected npxG+xAG,Lowest,Alphonse Areola,0.0
+Progression PrgC,Highest,Jeremy Doku,218.0
+Progression PrgC,Highest,Alejandro Garnacho,178.0
+Progression PrgC,Highest,Bukayo Saka,155.0
+Progression PrgC,Lowest,Aaron Ramsdale,0.0
+Progression PrgC,Lowest,Alisson,0.0
+Progression PrgC,Lowest,Alphonse Areola,0.0
+Progression PrgP,Highest,Rodri,376.0
+Progression PrgP,Highest,Martin Ødegaard,344.0
+Progression PrgP,Highest,Pascal Groß,302.0
+Progression PrgP,Lowest,Bernd Leno,0.0
+Progression PrgP,Lowest,Daniel Bentley,0.0
+Progression PrgP,Lowest,Dean Henderson,0.0
+Progression PrgR,Highest,Bukayo Saka,508.0
+Progression PrgR,Highest,Dejan Kulusevski,388.0
+Progression PrgR,Highest,Gabriel Martinelli,345.0
+Progression PrgR,Lowest,Aaron Ramsdale,0.0
+Progression PrgR,Lowest,Alisson,0.0
+Progression PrgR,Lowest,Alphonse Areola,0.0
+Per 90 Minutes Gls,Highest,Sasa Kalajdzic,1.08
+Per 90 Minutes Gls,Highest,Erling Haaland,0.95
+Per 90 Minutes Gls,Highest,Jhon Durán,0.95
+Per 90 Minutes Gls,Lowest,Aaron Cresswell,0.0
+Per 90 Minutes Gls,Lowest,Aaron Hickey,0.0
+Per 90 Minutes Gls,Lowest,Aaron Ramsdale,0.0
+Per 90 Minutes Ast,Highest,Manor Solomon,0.9
+Per 90 Minutes Ast,Highest,Ivan Perišić,0.87
+Per 90 Minutes Ast,Highest,Kevin De Bruyne,0.74
+Per 90 Minutes Ast,Lowest,Aaron Cresswell,0.0
+Per 90 Minutes Ast,Lowest,Aaron Hickey,0.0
+Per 90 Minutes Ast,Lowest,Aaron Ramsdale,0.0
+Per 90 Minutes G+A,Highest,Adama Traoré,1.19
+Per 90 Minutes G+A,Highest,Cole Palmer,1.14
+Per 90 Minutes G+A,Highest,Erling Haaland,1.13
+Per 90 Minutes G+A,Lowest,Aaron Cresswell,0.0
+Per 90 Minutes G+A,Lowest,Aaron Hickey,0.0
+Per 90 Minutes G+A,Lowest,Aaron Ramsdale,0.0
+Per 90 Minutes G-PK,Highest,Sasa Kalajdzic,1.08
+Per 90 Minutes G-PK,Highest,Jhon Durán,0.95
+Per 90 Minutes G-PK,Highest,Kieffer Moore,0.83
+Per 90 Minutes G-PK,Lowest,Aaron Cresswell,0.0
+Per 90 Minutes G-PK,Lowest,Aaron Hickey,0.0
+Per 90 Minutes G-PK,Lowest,Aaron Ramsdale,0.0
+Per 90 Minutes G+A-PK,Highest,Adama Traoré,1.19
+Per 90 Minutes G+A-PK,Highest,Enes Ünal,1.1
+Per 90 Minutes G+A-PK,Highest,Sasa Kalajdzic,1.08
+Per 90 Minutes G+A-PK,Lowest,Aaron Cresswell,0.0
+Per 90 Minutes G+A-PK,Lowest,Aaron Hickey,0.0
+Per 90 Minutes G+A-PK,Lowest,Aaron Ramsdale,0.0
+Per 90 Minutes xG,Highest,Kieffer Moore,1.23
+Per 90 Minutes xG,Highest,Neal Maupay,1.16
+Per 90 Minutes xG,Highest,Erling Haaland,1.03
+Per 90 Minutes xG,Lowest,Aaron Cresswell,0.0
+Per 90 Minutes xG,Lowest,Aaron Ramsdale,0.0
+Per 90 Minutes xG,Lowest,Adam Smith,0.0
+Per 90 Minutes xAG,Highest,Kevin De Bruyne,0.85
+Per 90 Minutes xAG,Highest,Ivan Perišić,0.75
+Per 90 Minutes xAG,Highest,Sasa Kalajdzic,0.52
+Per 90 Minutes xAG,Lowest,Aaron Ramsdale,0.0
+Per 90 Minutes xAG,Lowest,Alfie Gilchrist,0.0
+Per 90 Minutes xAG,Lowest,Alisson,0.0
+Per 90 Minutes xG+xAG,Highest,Kieffer Moore,1.44
+Per 90 Minutes xG+xAG,Highest,Neal Maupay,1.22
+Per 90 Minutes xG+xAG,Highest,Erling Haaland,1.18
+Per 90 Minutes xG+xAG,Lowest,Aaron Ramsdale,0.0
+Per 90 Minutes xG+xAG,Lowest,Alisson,0.0
+Per 90 Minutes xG+xAG,Lowest,Alphonse Areola,0.0
+Per 90 Minutes npxG,Highest,Kieffer Moore,1.23
+Per 90 Minutes npxG,Highest,Neal Maupay,1.16
+Per 90 Minutes npxG,Highest,Erling Haaland,0.81
+Per 90 Minutes npxG,Lowest,Aaron Cresswell,0.0
+Per 90 Minutes npxG,Lowest,Aaron Ramsdale,0.0
+Per 90 Minutes npxG,Lowest,Adam Smith,0.0
+Per 90 Minutes npxG+xAG,Highest,Kieffer Moore,1.44
+Per 90 Minutes npxG+xAG,Highest,Neal Maupay,1.22
+Per 90 Minutes npxG+xAG,Highest,Sasa Kalajdzic,1.09
+Per 90 Minutes npxG+xAG,Lowest,Aaron Ramsdale,0.0
+Per 90 Minutes npxG+xAG,Lowest,Alisson,0.0
+Per 90 Minutes npxG+xAG,Lowest,Alphonse Areola,0.0
+Keeper Performance GA,Highest,Thomas Kaminski,85.0
+Keeper Performance GA,Highest,Wes Foderingham,79.0
+Keeper Performance GA,Highest,Mark Flekken,63.0
+Keeper Performance GA,Lowest,Aaron Cresswell,0.0
+Keeper Performance GA,Lowest,Aaron Hickey,0.0
+Keeper Performance GA,Lowest,Aaron Ramsey,0.0
+Keeper Performance GA90,Highest,Ionuț Radu,3.5
+Keeper Performance GA90,Highest,Ivo Grbić,2.92
+Keeper Performance GA90,Highest,Robin Olsen,2.89
+Keeper Performance GA90,Lowest,Aaron Cresswell,0.0
+Keeper Performance GA90,Lowest,Aaron Hickey,0.0
+Keeper Performance GA90,Lowest,Aaron Ramsey,0.0
+Keeper Performance SoTA,Highest,Thomas Kaminski,221.0
+Keeper Performance SoTA,Highest,Wes Foderingham,204.0
+Keeper Performance SoTA,Highest,André Onana,203.0
+Keeper Performance SoTA,Lowest,Aaron Cresswell,0.0
+Keeper Performance SoTA,Lowest,Aaron Hickey,0.0
+Keeper Performance SoTA,Lowest,Aaron Ramsey,0.0
+Keeper Performance Saves,Highest,André Onana,146.0
+Keeper Performance Saves,Highest,Thomas Kaminski,140.0
+Keeper Performance Saves,Highest,Alphonse Areola,136.0
+Keeper Performance Saves,Lowest,Aaron Cresswell,0.0
+Keeper Performance Saves,Lowest,Aaron Hickey,0.0
+Keeper Performance Saves,Lowest,Aaron Ramsey,0.0
+Keeper Performance Save%,Highest,Arijanet Muric,80.8
+Keeper Performance Save%,Highest,Mark Travers,77.8
+Keeper Performance Save%,Highest,Thomas Strakosha,75.0
+Keeper Performance Save%,Lowest,Aaron Cresswell,0.0
+Keeper Performance Save%,Lowest,Aaron Hickey,0.0
+Keeper Performance Save%,Lowest,Aaron Ramsey,0.0
+Keeper Performance W,Highest,Ederson,24.0
+Keeper Performance W,Highest,David Raya,23.0
+Keeper Performance W,Highest,Guglielmo Vicario,20.0
+Keeper Performance W,Lowest,Aaron Cresswell,0.0
+Keeper Performance W,Lowest,Aaron Hickey,0.0
+Keeper Performance W,Lowest,Aaron Ramsey,0.0
+Keeper Performance D,Highest,Alphonse Areola,9.0
+Keeper Performance D,Highest,Jordan Pickford,9.0
+Keeper Performance D,Highest,Mark Flekken,9.0
+Keeper Performance D,Lowest,Aaron Cresswell,0.0
+Keeper Performance D,Lowest,Aaron Hickey,0.0
+Keeper Performance D,Lowest,Aaron Ramsey,0.0
+Keeper Performance L,Highest,Thomas Kaminski,24.0
+Keeper Performance L,Highest,Wes Foderingham,22.0
+Keeper Performance L,Highest,James Trafford,20.0
+Keeper Performance L,Lowest,Aaron Cresswell,0.0
+Keeper Performance L,Lowest,Aaron Hickey,0.0
+Keeper Performance L,Lowest,Aaron Ramsdale,0.0
+Keeper Performance CS,Highest,David Raya,16.0
+Keeper Performance CS,Highest,Jordan Pickford,13.0
+Keeper Performance CS,Highest,Bernd Leno,10.0
+Keeper Performance CS,Lowest,Aaron Cresswell,0.0
+Keeper Performance CS,Lowest,Aaron Hickey,0.0
+Keeper Performance CS,Lowest,Aaron Ramsey,0.0
+Keeper Performance CS%,Highest,Stefan Ortega,60.0
+Keeper Performance CS%,Highest,David Raya,50.0
+Keeper Performance CS%,Highest,Mark Travers,50.0
+Keeper Performance CS%,Lowest,Aaron Cresswell,0.0
+Keeper Performance CS%,Lowest,Aaron Hickey,0.0
+Keeper Performance CS%,Lowest,Aaron Ramsey,0.0
+Keeper Penalty Kicks PKatt,Highest,Bernd Leno,8.0
+Keeper Penalty Kicks PKatt,Highest,Jordan Pickford,8.0
+Keeper Penalty Kicks PKatt,Highest,José Sá,8.0
+Keeper Penalty Kicks PKatt,Lowest,Aaron Cresswell,0.0
+Keeper Penalty Kicks PKatt,Lowest,Aaron Hickey,0.0
+Keeper Penalty Kicks PKatt,Lowest,Aaron Ramsdale,0.0
+Keeper Penalty Kicks PKA,Highest,Bernd Leno,8.0
+Keeper Penalty Kicks PKA,Highest,Jordan Pickford,8.0
+Keeper Penalty Kicks PKA,Highest,José Sá,8.0
+Keeper Penalty Kicks PKA,Lowest,Aaron Cresswell,0.0
+Keeper Penalty Kicks PKA,Lowest,Aaron Hickey,0.0
+Keeper Penalty Kicks PKA,Lowest,Aaron Ramsdale,0.0
+Keeper Penalty Kicks PKsv,Highest,Alphonse Areola,2.0
+Keeper Penalty Kicks PKsv,Highest,Arijanet Muric,1.0
+Keeper Penalty Kicks PKsv,Highest,David Raya,1.0
+Keeper Penalty Kicks PKsv,Lowest,Aaron Cresswell,0.0
+Keeper Penalty Kicks PKsv,Lowest,Aaron Hickey,0.0
+Keeper Penalty Kicks PKsv,Lowest,Aaron Ramsdale,0.0
+Keeper Penalty Kicks PKm,Highest,Ivo Grbić,1.0
+Keeper Penalty Kicks PKm,Highest,Wes Foderingham,1.0
+Keeper Penalty Kicks PKm,Highest,Đorđe Petrović,1.0
+Keeper Penalty Kicks PKm,Lowest,Aaron Cresswell,0.0
+Keeper Penalty Kicks PKm,Lowest,Aaron Hickey,0.0
+Keeper Penalty Kicks PKm,Lowest,Aaron Ramsdale,0.0
+Keeper Penalty Kicks Save%,Highest,Robin Olsen,100.0
+Keeper Penalty Kicks Save%,Highest,Arijanet Muric,50.0
+Keeper Penalty Kicks Save%,Highest,David Raya,33.3
+Keeper Penalty Kicks Save%,Lowest,Aaron Cresswell,0.0
+Keeper Penalty Kicks Save%,Lowest,Aaron Hickey,0.0
+Keeper Penalty Kicks Save%,Lowest,Aaron Ramsdale,0.0
+Shooting Standard Gls,Highest,Erling Haaland,27.0
+Shooting Standard Gls,Highest,Cole Palmer,22.0
+Shooting Standard Gls,Highest,Alexander Isak,21.0
+Shooting Standard Gls,Lowest,Aaron Cresswell,0.0
+Shooting Standard Gls,Lowest,Aaron Hickey,0.0
+Shooting Standard Gls,Lowest,Aaron Ramsdale,0.0
+Shooting Standard Sh,Highest,Erling Haaland,113.0
+Shooting Standard Sh,Highest,Darwin Núñez,107.0
+Shooting Standard Sh,Highest,Mohamed Salah,107.0
+Shooting Standard Sh,Lowest,Aaron Cresswell,0.0
+Shooting Standard Sh,Lowest,Aaron Ramsdale,0.0
+Shooting Standard Sh,Lowest,Alisson,0.0
+Shooting Standard SoT,Highest,Erling Haaland,50.0
+Shooting Standard SoT,Highest,Phil Foden,48.0
+Shooting Standard SoT,Highest,Mohamed Salah,47.0
+Shooting Standard SoT,Lowest,Aaron Cresswell,0.0
+Shooting Standard SoT,Lowest,Aaron Ramsdale,0.0
+Shooting Standard SoT,Lowest,Adam Smith,0.0
+Shooting Standard SoT%,Highest,Amari'i Bell,100.0
+Shooting Standard SoT%,Highest,Bénie Traoré,100.0
+Shooting Standard SoT%,Highest,Chris Mepham,100.0
+Shooting Standard SoT%,Lowest,Aaron Cresswell,0.0
+Shooting Standard SoT%,Lowest,Aaron Ramsdale,0.0
+Shooting Standard SoT%,Lowest,Adam Smith,0.0
+Shooting Standard Sh/90,Highest,Enes Ünal,6.31
+Shooting Standard Sh/90,Highest,Julio Enciso,5.31
+Shooting Standard Sh/90,Highest,Kieffer Moore,5.0
+Shooting Standard Sh/90,Lowest,Aaron Cresswell,0.0
+Shooting Standard Sh/90,Lowest,Aaron Ramsdale,0.0
+Shooting Standard Sh/90,Lowest,Alisson,0.0
+Shooting Standard SoT/90,Highest,Neal Maupay,3.24
+Shooting Standard SoT/90,Highest,Matt Ritchie,2.81
+Shooting Standard SoT/90,Highest,Enes Ünal,2.2
+Shooting Standard SoT/90,Lowest,Aaron Cresswell,0.0
+Shooting Standard SoT/90,Lowest,Aaron Ramsdale,0.0
+Shooting Standard SoT/90,Lowest,Adam Smith,0.0
+Shooting Standard G/Sh,Highest,Hannibal Mejbri,1.0
+Shooting Standard G/Sh,Highest,Tim Ream,1.0
+Shooting Standard G/Sh,Highest,Leander Dendoncker,0.5
+Shooting Standard G/Sh,Lowest,Aaron Cresswell,0.0
+Shooting Standard G/Sh,Lowest,Aaron Hickey,0.0
+Shooting Standard G/Sh,Lowest,Aaron Ramsdale,0.0
+Shooting Standard G/SoT,Highest,Alfie Gilchrist,1.0
+Shooting Standard G/SoT,Highest,Ben Mee,1.0
+Shooting Standard G/SoT,Highest,Calvin Bassey,1.0
+Shooting Standard G/SoT,Lowest,Aaron Cresswell,0.0
+Shooting Standard G/SoT,Lowest,Aaron Hickey,0.0
+Shooting Standard G/SoT,Lowest,Aaron Ramsdale,0.0
+Shooting Standard Dist,Highest,Oliver Norwood,32.9
+Shooting Standard Dist,Highest,Kyle Walker,29.4
+Shooting Standard Dist,Highest,Moisés Caicedo,29.0
+Shooting Standard Dist,Lowest,Aaron Cresswell,0.0
+Shooting Standard Dist,Lowest,Aaron Ramsdale,0.0
+Shooting Standard Dist,Lowest,Alisson,0.0
+Shooting Standard FK,Highest,James Ward-Prowse,16.0
+Shooting Standard FK,Highest,Julián Álvarez,13.0
+Shooting Standard FK,Highest,Eberechi Eze,12.0
+Shooting Standard FK,Lowest,Aaron Cresswell,0.0
+Shooting Standard FK,Lowest,Aaron Hickey,0.0
+Shooting Standard FK,Lowest,Aaron Ramsdale,0.0
+Shooting Standard PK,Highest,Cole Palmer,9.0
+Shooting Standard PK,Highest,Erling Haaland,7.0
+Shooting Standard PK,Highest,Bukayo Saka,6.0
+Shooting Standard PK,Lowest,Aaron Cresswell,0.0
+Shooting Standard PK,Lowest,Aaron Hickey,0.0
+Shooting Standard PK,Lowest,Aaron Ramsdale,0.0
+Shooting Standard PKatt,Highest,Cole Palmer,9.0
+Shooting Standard PKatt,Highest,Erling Haaland,8.0
+Shooting Standard PKatt,Highest,Mohamed Salah,7.0
+Shooting Standard PKatt,Lowest,Aaron Cresswell,0.0
+Shooting Standard PKatt,Lowest,Aaron Hickey,0.0
+Shooting Standard PKatt,Lowest,Aaron Ramsdale,0.0
+Shooting Expected xG,Highest,Erling Haaland,29.2
+Shooting Expected xG,Highest,Mohamed Salah,21.2
+Shooting Expected xG,Highest,Alexander Isak,20.3
+Shooting Expected xG,Lowest,Aaron Cresswell,0.0
+Shooting Expected xG,Lowest,Aaron Ramsdale,0.0
+Shooting Expected xG,Lowest,Alisson,0.0
+Shooting Expected npxG,Highest,Erling Haaland,22.9
+Shooting Expected npxG,Highest,Nicolas Jackson,18.6
+Shooting Expected npxG,Highest,Dominic Solanke,17.2
+Shooting Expected npxG,Lowest,Aaron Cresswell,0.0
+Shooting Expected npxG,Lowest,Aaron Ramsdale,0.0
+Shooting Expected npxG,Lowest,Alisson,0.0
+Shooting Expected npxG/Sh,Highest,Tim Ream,0.96
+Shooting Expected npxG/Sh,Highest,Shandon Baptiste,0.45
+Shooting Expected npxG/Sh,Highest,Leander Dendoncker,0.37
+Shooting Expected npxG/Sh,Lowest,Aaron Cresswell,0.0
+Shooting Expected npxG/Sh,Lowest,Aaron Ramsdale,0.0
+Shooting Expected npxG/Sh,Lowest,Alisson,0.0
+Shooting Expected G-xG,Highest,Phil Foden,8.7
+Shooting Expected G-xG,Highest,Callum Hudson-Odoi,5.3
+Shooting Expected G-xG,Highest,Jean-Philippe Mateta,5.1
+Shooting Expected G-xG,Lowest,Dominic Calvert-Lewin,-5.9
+Shooting Expected G-xG,Lowest,Brennan Johnson,-5.3
+Shooting Expected G-xG,Lowest,Darwin Núñez,-5.3
+Shooting Expected np:G-xG,Highest,Phil Foden,8.7
+Shooting Expected np:G-xG,Highest,Callum Hudson-Odoi,5.3
+Shooting Expected np:G-xG,Highest,Diogo Jota,4.7
+Shooting Expected np:G-xG,Lowest,Dominic Calvert-Lewin,-6.4
+Shooting Expected np:G-xG,Lowest,Brennan Johnson,-5.3
+Shooting Expected np:G-xG,Lowest,Nicolas Jackson,-4.6
+Passing Total Cmp,Highest,Rodri,3365.0
+Passing Total Cmp,Highest,Lewis Dunk,2977.0
+Passing Total Cmp,Highest,Pascal Groß,2774.0
+Passing Total Cmp,Lowest,Leon Chiwome,19.0
+Passing Total Cmp,Lowest,Neal Maupay,22.0
+Passing Total Cmp,Lowest,Alex Iwobi,27.0
+Passing Total Att,Highest,Rodri,3656.0
+Passing Total Att,Highest,Lewis Dunk,3233.0
+Passing Total Att,Highest,Pascal Groß,3223.0
+Passing Total Att,Lowest,Leon Chiwome,22.0
+Passing Total Att,Lowest,Neal Maupay,26.0
+Passing Total Att,Lowest,Hannibal Mejbri,38.0
+Passing Total Cmp%,Highest,Thiago Silva,94.7
+Passing Total Cmp%,Highest,David Ozoh,94.1
+Passing Total Cmp%,Highest,Mateo Kovačić,94.0
+Passing Total Cmp%,Lowest,Ivo Grbić,49.7
+Passing Total Cmp%,Lowest,William Osula,52.7
+Passing Total Cmp%,Lowest,Ivan Toney,53.5
+Passing Total TotDist,Highest,Rodri,57256.0
+Passing Total TotDist,Highest,Lewis Dunk,50791.0
+Passing Total TotDist,Highest,Virgil van Dijk,49290.0
+Passing Total TotDist,Lowest,Leon Chiwome,244.0
+Passing Total TotDist,Lowest,Kieffer Moore,272.0
+Passing Total TotDist,Lowest,Neal Maupay,353.0
+Passing Total PrgDist,Highest,Jordan Pickford,26388.0
+Passing Total PrgDist,Highest,Mark Flekken,22385.0
+Passing Total PrgDist,Highest,Thomas Kaminski,22188.0
+Passing Total PrgDist,Lowest,Neal Maupay,14.0
+Passing Total PrgDist,Lowest,Nathan Fraser,45.0
+Passing Total PrgDist,Lowest,Leon Chiwome,59.0
+Passing Short Cmp,Highest,Rodri,1676.0
+Passing Short Cmp,Highest,Pascal Groß,1583.0
+Passing Short Cmp,Highest,Lewis Dunk,1343.0
+Passing Short Cmp,Lowest,Thomas Strakosha,6.0
+Passing Short Cmp,Lowest,Mark Travers,10.0
+Passing Short Cmp,Lowest,Leon Chiwome,12.0
+Passing Short Att,Highest,Rodri,1774.0
+Passing Short Att,Highest,Pascal Groß,1674.0
+Passing Short Att,Highest,Lewis Dunk,1382.0
+Passing Short Att,Lowest,Thomas Strakosha,6.0
+Passing Short Att,Lowest,Mark Travers,10.0
+Passing Short Att,Lowest,Leon Chiwome,13.0
+Passing Short Cmp%,Highest,Aaron Ramsdale,100.0
+Passing Short Cmp%,Highest,Benson Manuel,100.0
+Passing Short Cmp%,Highest,Caoimhín Kelleher,100.0
+Passing Short Cmp%,Lowest,William Osula,58.9
+Passing Short Cmp%,Lowest,Youssef Chermiti,59.4
+Passing Short Cmp%,Lowest,Ivan Toney,61.6
+Passing Medium Cmp,Highest,Virgil van Dijk,1343.0
+Passing Medium Cmp,Highest,Lewis Dunk,1340.0
+Passing Medium Cmp,Highest,William Saliba,1298.0
+Passing Medium Cmp,Lowest,Kieffer Moore,4.0
+Passing Medium Cmp,Lowest,Leon Chiwome,6.0
+Passing Medium Cmp,Lowest,Maxwel Cornet,6.0
+Passing Medium Att,Highest,Lewis Dunk,1417.0
+Passing Medium Att,Highest,Virgil van Dijk,1412.0
+Passing Medium Att,Highest,William Saliba,1373.0
+Passing Medium Att,Lowest,Leon Chiwome,6.0
+Passing Medium Att,Lowest,Kieffer Moore,8.0
+Passing Medium Att,Lowest,Maxwel Cornet,8.0
+Passing Medium Cmp%,Highest,Daniel Bentley,100.0
+Passing Medium Cmp%,Highest,David Ozoh,100.0
+Passing Medium Cmp%,Highest,Leon Chiwome,100.0
+Passing Medium Cmp%,Lowest,William Osula,40.0
+Passing Medium Cmp%,Lowest,Rhian Brewster,45.5
+Passing Medium Cmp%,Lowest,Dominic Calvert-Lewin,49.5
+Passing Long Cmp,Highest,Jordan Pickford,461.0
+Passing Long Cmp,Highest,Mark Flekken,394.0
+Passing Long Cmp,Highest,Thomas Kaminski,362.0
+Passing Long Cmp,Lowest,David Ozoh,0.0
+Passing Long Cmp,Lowest,Facundo Pellistri,0.0
+Passing Long Cmp,Lowest,Kieffer Moore,0.0
+Passing Long Att,Highest,Jordan Pickford,1031.0
+Passing Long Att,Highest,Thomas Kaminski,937.0
+Passing Long Att,Highest,Mark Flekken,832.0
+Passing Long Att,Lowest,David Ozoh,0.0
+Passing Long Att,Lowest,Facundo Pellistri,0.0
+Passing Long Att,Lowest,Kieffer Moore,0.0
+Passing Long Cmp%,Highest,Brennan Johnson,100.0
+Passing Long Cmp%,Highest,Bénie Traoré,100.0
+Passing Long Cmp%,Highest,Carlos Vinícius,100.0
+Passing Long Cmp%,Lowest,David Ozoh,0.0
+Passing Long Cmp%,Lowest,Facundo Pellistri,0.0
+Passing Long Cmp%,Lowest,Kieffer Moore,0.0
+Ast,Highest,Ollie Watkins,13.0
+Ast,Highest,Cole Palmer,11.0
+Ast,Highest,Anthony Gordon,10.0
+Ast,Lowest,Aaron Cresswell,0.0
+Ast,Lowest,Aaron Hickey,0.0
+Ast,Lowest,Aaron Ramsdale,0.0
+xAG,Highest,Bruno Fernandes,11.8
+xAG,Highest,Mohamed Salah,11.8
+xAG,Highest,Son Heung-min,11.8
+xAG,Lowest,Aaron Ramsdale,0.0
+xAG,Lowest,Alfie Gilchrist,0.0
+xAG,Lowest,Alisson,0.0
+Passing Expected xA,Highest,Martin Ødegaard,11.2
+Passing Expected xA,Highest,Bukayo Saka,11.0
+Passing Expected xA,Highest,Bruno Fernandes,10.2
+Passing Expected xA,Lowest,Aaron Ramsdale,0.0
+Passing Expected xA,Lowest,Alfie Gilchrist,0.0
+Passing Expected xA,Lowest,Alisson,0.0
+Passing Expected A-xAG,Highest,Ollie Watkins,5.7
+Passing Expected A-xAG,Highest,Rodri,5.1
+Passing Expected A-xAG,Highest,Pedro Neto,4.6
+Passing Expected A-xAG,Lowest,Dejan Kulusevski,-4.7
+Passing Expected A-xAG,Lowest,Bruno Fernandes,-3.8
+Passing Expected A-xAG,Lowest,Dominik Szoboszlai,-3.8
+KP,Highest,Bruno Fernandes,114.0
+KP,Highest,Pascal Groß,103.0
+KP,Highest,Martin Ødegaard,102.0
+KP,Lowest,Aaron Ramsdale,0.0
+KP,Lowest,Alfie Gilchrist,0.0
+KP,Lowest,Alphonse Areola,0.0
+1/3,Highest,Rodri,378.0
+1/3,Highest,Pascal Groß,242.0
+1/3,Highest,Declan Rice,240.0
+1/3,Lowest,Ionuț Radu,0.0
+1/3,Lowest,Lewis Dobbin,0.0
+1/3,Lowest,Maxwel Cornet,0.0
+PPA,Highest,Martin Ødegaard,130.0
+PPA,Highest,Bruno Fernandes,89.0
+PPA,Highest,Bukayo Saka,73.0
+PPA,Lowest,Aaron Ramsdale,0.0
+PPA,Lowest,Alisson,0.0
+PPA,Lowest,Alphonse Areola,0.0
+CrsPA,Highest,Pascal Groß,27.0
+CrsPA,Highest,Antonee Robinson,26.0
+CrsPA,Highest,Alfie Doughty,24.0
+CrsPA,Lowest,Aaron Cresswell,0.0
+CrsPA,Lowest,Aaron Hickey,0.0
+CrsPA,Lowest,Aaron Ramsdale,0.0
+PrgP,Highest,Rodri,376.0
+PrgP,Highest,Martin Ødegaard,344.0
+PrgP,Highest,Pascal Groß,302.0
+PrgP,Lowest,Bernd Leno,0.0
+PrgP,Lowest,Daniel Bentley,0.0
+PrgP,Lowest,Dean Henderson,0.0
+Pass Types Pass Types Live,Highest,Rodri,3572.0
+Pass Types Pass Types Live,Highest,Lewis Dunk,3005.0
+Pass Types Pass Types Live,Highest,Pascal Groß,2903.0
+Pass Types Pass Types Live,Lowest,Leon Chiwome,18.0
+Pass Types Pass Types Live,Lowest,Neal Maupay,23.0
+Pass Types Pass Types Live,Lowest,Alex Iwobi,34.0
+Pass Types Pass Types Dead,Highest,Jordan Pickford,496.0
+Pass Types Pass Types Dead,Highest,Thomas Kaminski,493.0
+Pass Types Pass Types Dead,Highest,Alfie Doughty,489.0
+Pass Types Pass Types Dead,Lowest,Calum Chambers,0.0
+Pass Types Pass Types Dead,Lowest,Carney Chukwuemeka,0.0
+Pass Types Pass Types Dead,Lowest,Cheikhou Kouyaté,0.0
+Pass Types Pass Types FK,Highest,Jordan Pickford,223.0
+Pass Types Pass Types FK,Highest,Mark Flekken,166.0
+Pass Types Pass Types FK,Highest,Thomas Kaminski,152.0
+Pass Types Pass Types FK,Lowest,Abdoulaye Doucouré,0.0
+Pass Types Pass Types FK,Lowest,Adama Traoré,0.0
+Pass Types Pass Types FK,Lowest,Alex Iwobi,0.0
+Pass Types Pass Types TB,Highest,Martin Ødegaard,39.0
+Pass Types Pass Types TB,Highest,Bruno Fernandes,30.0
+Pass Types Pass Types TB,Highest,Lucas Paquetá,30.0
+Pass Types Pass Types TB,Lowest,Aaron Cresswell,0.0
+Pass Types Pass Types TB,Lowest,Aaron Ramsdale,0.0
+Pass Types Pass Types TB,Lowest,Aaron Wan-Bissaka,0.0
+Pass Types Pass Types Sw,Highest,Fabian Schär,41.0
+Pass Types Pass Types Sw,Highest,Rodri,36.0
+Pass Types Pass Types Sw,Highest,Trent Alexander-Arnold,32.0
+Pass Types Pass Types Sw,Lowest,Aaron Ramsdale,0.0
+Pass Types Pass Types Sw,Lowest,Aaron Ramsey,0.0
+Pass Types Pass Types Sw,Lowest,Adam Lallana,0.0
+Pass Types Pass Types Crs,Highest,Alfie Doughty,340.0
+Pass Types Pass Types Crs,Highest,Pascal Groß,238.0
+Pass Types Pass Types Crs,Highest,Dwight McNeil,229.0
+Pass Types Pass Types Crs,Lowest,Aaron Ramsdale,0.0
+Pass Types Pass Types Crs,Lowest,Alisson,0.0
+Pass Types Pass Types Crs,Lowest,Alphonse Areola,0.0
+Pass Types Pass Types TI,Highest,Tyrick Mitchell,347.0
+Pass Types Pass Types TI,Highest,Vladimír Coufal,319.0
+Pass Types Pass Types TI,Highest,Pedro Porro,295.0
+Pass Types Pass Types TI,Lowest,Aaron Ramsdale,0.0
+Pass Types Pass Types TI,Lowest,Abdoulaye Doucouré,0.0
+Pass Types Pass Types TI,Lowest,Adam Lallana,0.0
+Pass Types Pass Types CK,Highest,Alfie Doughty,151.0
+Pass Types Pass Types CK,Highest,Bruno Fernandes,151.0
+Pass Types Pass Types CK,Highest,Andreas Pereira,148.0
+Pass Types Pass Types CK,Lowest,Aaron Hickey,0.0
+Pass Types Pass Types CK,Lowest,Aaron Ramsdale,0.0
+Pass Types Pass Types CK,Lowest,Aaron Ramsey,0.0
+Pass Types Corner Kicks In,Highest,Bukayo Saka,99.0
+Pass Types Corner Kicks In,Highest,Lewis Cook,81.0
+Pass Types Corner Kicks In,Highest,Alfie Doughty,66.0
+Pass Types Corner Kicks In,Lowest,Aaron Hickey,0.0
+Pass Types Corner Kicks In,Lowest,Aaron Ramsdale,0.0
+Pass Types Corner Kicks In,Lowest,Aaron Ramsey,0.0
+Pass Types Corner Kicks Out,Highest,Alfie Doughty,80.0
+Pass Types Corner Kicks Out,Highest,Andreas Pereira,74.0
+Pass Types Corner Kicks Out,Highest,Pascal Groß,57.0
+Pass Types Corner Kicks Out,Lowest,Aaron Hickey,0.0
+Pass Types Corner Kicks Out,Lowest,Aaron Ramsdale,0.0
+Pass Types Corner Kicks Out,Lowest,Aaron Ramsey,0.0
+Pass Types Corner Kicks Str,Highest,Pablo Sarabia,10.0
+Pass Types Corner Kicks Str,Highest,Bruno Fernandes,8.0
+Pass Types Corner Kicks Str,Highest,Kieran Trippier,8.0
+Pass Types Corner Kicks Str,Lowest,Aaron Cresswell,0.0
+Pass Types Corner Kicks Str,Lowest,Aaron Hickey,0.0
+Pass Types Corner Kicks Str,Lowest,Aaron Ramsdale,0.0
+Pass Types Outcomes Cmp,Highest,Rodri,3365.0
+Pass Types Outcomes Cmp,Highest,Lewis Dunk,2977.0
+Pass Types Outcomes Cmp,Highest,Pascal Groß,2774.0
+Pass Types Outcomes Cmp,Lowest,Leon Chiwome,19.0
+Pass Types Outcomes Cmp,Lowest,Neal Maupay,22.0
+Pass Types Outcomes Cmp,Lowest,Alex Iwobi,27.0
+Pass Types Outcomes Off,Highest,Bruno Fernandes,23.0
+Pass Types Outcomes Off,Highest,Enzo Fernández,17.0
+Pass Types Outcomes Off,Highest,Martin Ødegaard,16.0
+Pass Types Outcomes Off,Lowest,Aaron Cresswell,0.0
+Pass Types Outcomes Off,Lowest,Aaron Hickey,0.0
+Pass Types Outcomes Off,Lowest,Aaron Ramsdale,0.0
+Pass Types Outcomes Blocks,Highest,Tyrick Mitchell,70.0
+Pass Types Outcomes Blocks,Highest,Antonee Robinson,68.0
+Pass Types Outcomes Blocks,Highest,Pedro Porro,68.0
+Pass Types Outcomes Blocks,Lowest,Alfie Gilchrist,0.0
+Pass Types Outcomes Blocks,Lowest,Alphonse Areola,0.0
+Pass Types Outcomes Blocks,Lowest,Arijanet Muric,0.0
+Goal and Shot Creation SCA SCA,Highest,Martin Ødegaard,220.0
+Goal and Shot Creation SCA SCA,Highest,Bruno Fernandes,210.0
+Goal and Shot Creation SCA SCA,Highest,Bukayo Saka,188.0
+Goal and Shot Creation SCA SCA,Lowest,Aaron Ramsdale,0.0
+Goal and Shot Creation SCA SCA,Lowest,Angelo Ogbonna,0.0
+Goal and Shot Creation SCA SCA,Lowest,David Ozoh,0.0
+Goal and Shot Creation SCA SCA90,Highest,Manor Solomon,8.59
+Goal and Shot Creation SCA SCA90,Highest,Alex Iwobi,7.77
+Goal and Shot Creation SCA SCA90,Highest,Kevin De Bruyne,7.36
+Goal and Shot Creation SCA SCA90,Lowest,Aaron Ramsdale,0.0
+Goal and Shot Creation SCA SCA90,Lowest,Angelo Ogbonna,0.0
+Goal and Shot Creation SCA SCA90,Lowest,David Ozoh,0.0
+Goal and Shot Creation SCA Types PassLive,Highest,Martin Ødegaard,178.0
+Goal and Shot Creation SCA Types PassLive,Highest,Bruno Fernandes,143.0
+Goal and Shot Creation SCA Types PassLive,Highest,Bukayo Saka,137.0
+Goal and Shot Creation SCA Types PassLive,Lowest,Aaron Ramsdale,0.0
+Goal and Shot Creation SCA Types PassLive,Lowest,Angelo Ogbonna,0.0
+Goal and Shot Creation SCA Types PassLive,Lowest,David Ozoh,0.0
+Goal and Shot Creation SCA Types PassDead,Highest,Pascal Groß,54.0
+Goal and Shot Creation SCA Types PassDead,Highest,James Ward-Prowse,51.0
+Goal and Shot Creation SCA Types PassDead,Highest,Andreas Pereira,48.0
+Goal and Shot Creation SCA Types PassDead,Lowest,Aaron Hickey,0.0
+Goal and Shot Creation SCA Types PassDead,Lowest,Aaron Ramsdale,0.0
+Goal and Shot Creation SCA Types PassDead,Lowest,Aaron Ramsey,0.0
+Goal and Shot Creation SCA Types TO,Highest,Mohammed Kudus,25.0
+Goal and Shot Creation SCA Types TO,Highest,Nicolas Jackson,18.0
+Goal and Shot Creation SCA Types TO,Highest,Jeremy Doku,17.0
+Goal and Shot Creation SCA Types TO,Lowest,Aaron Cresswell,0.0
+Goal and Shot Creation SCA Types TO,Lowest,Aaron Hickey,0.0
+Goal and Shot Creation SCA Types TO,Lowest,Aaron Ramsdale,0.0
+Goal and Shot Creation SCA Types Sh,Highest,Mohamed Salah,21.0
+Goal and Shot Creation SCA Types Sh,Highest,Ollie Watkins,18.0
+Goal and Shot Creation SCA Types Sh,Highest,Luis Díaz,15.0
+Goal and Shot Creation SCA Types Sh,Lowest,Aaron Cresswell,0.0
+Goal and Shot Creation SCA Types Sh,Lowest,Aaron Hickey,0.0
+Goal and Shot Creation SCA Types Sh,Lowest,Aaron Ramsdale,0.0
+Goal and Shot Creation SCA Types Fld,Highest,Anthony Gordon,13.0
+Goal and Shot Creation SCA Types Fld,Highest,Alejandro Garnacho,12.0
+Goal and Shot Creation SCA Types Fld,Highest,Jordan Ayew,12.0
+Goal and Shot Creation SCA Types Fld,Lowest,Aaron Ramsdale,0.0
+Goal and Shot Creation SCA Types Fld,Lowest,Aaron Ramsey,0.0
+Goal and Shot Creation SCA Types Fld,Lowest,Adam Webster,0.0
+Goal and Shot Creation SCA Types Def,Highest,Bruno Guimarães,6.0
+Goal and Shot Creation SCA Types Def,Highest,Conor Gallagher,6.0
+Goal and Shot Creation SCA Types Def,Highest,Idrissa Gana Gueye,6.0
+Goal and Shot Creation SCA Types Def,Lowest,Aaron Cresswell,0.0
+Goal and Shot Creation SCA Types Def,Lowest,Aaron Hickey,0.0
+Goal and Shot Creation SCA Types Def,Lowest,Aaron Ramsdale,0.0
+Goal and Shot Creation GCA GCA,Highest,Anthony Gordon,29.0
+Goal and Shot Creation GCA GCA,Highest,Cole Palmer,26.0
+Goal and Shot Creation GCA GCA,Highest,Ollie Watkins,26.0
+Goal and Shot Creation GCA GCA,Lowest,Aaron Hickey,0.0
+Goal and Shot Creation GCA GCA,Lowest,Aaron Ramsdale,0.0
+Goal and Shot Creation GCA GCA,Lowest,Aaron Ramsey,0.0
+Goal and Shot Creation GCA GCA90,Highest,Oscar Bobb,1.79
+Goal and Shot Creation GCA GCA90,Highest,Ivan Perišić,1.75
+Goal and Shot Creation GCA GCA90,Highest,Carney Chukwuemeka,1.59
+Goal and Shot Creation GCA GCA90,Lowest,Aaron Hickey,0.0
+Goal and Shot Creation GCA GCA90,Lowest,Aaron Ramsdale,0.0
+Goal and Shot Creation GCA GCA90,Lowest,Aaron Ramsey,0.0
+Goal and Shot Creation GCA Types PassLive,Highest,Cole Palmer,20.0
+Goal and Shot Creation GCA Types PassLive,Highest,Martin Ødegaard,18.0
+Goal and Shot Creation GCA Types PassLive,Highest,Rodri,17.0
+Goal and Shot Creation GCA Types PassLive,Lowest,Aaron Hickey,0.0
+Goal and Shot Creation GCA Types PassLive,Lowest,Aaron Ramsdale,0.0
+Goal and Shot Creation GCA Types PassLive,Lowest,Aaron Ramsey,0.0
+Goal and Shot Creation GCA Types PassDead,Highest,James Ward-Prowse,7.0
+Goal and Shot Creation GCA Types PassDead,Highest,Alfie Doughty,5.0
+Goal and Shot Creation GCA Types PassDead,Highest,Conor Gallagher,5.0
+Goal and Shot Creation GCA Types PassDead,Lowest,Aaron Cresswell,0.0
+Goal and Shot Creation GCA Types PassDead,Lowest,Aaron Hickey,0.0
+Goal and Shot Creation GCA Types PassDead,Lowest,Aaron Ramsdale,0.0
+Goal and Shot Creation GCA Types TO,Highest,Anthony Gordon,5.0
+Goal and Shot Creation GCA Types TO,Highest,Bruno Guimarães,4.0
+Goal and Shot Creation GCA Types TO,Highest,Diogo Jota,4.0
+Goal and Shot Creation GCA Types TO,Lowest,Aaron Cresswell,0.0
+Goal and Shot Creation GCA Types TO,Lowest,Aaron Hickey,0.0
+Goal and Shot Creation GCA Types TO,Lowest,Aaron Ramsdale,0.0
+Goal and Shot Creation GCA Types Sh,Highest,Ollie Watkins,7.0
+Goal and Shot Creation GCA Types Sh,Highest,Anthony Gordon,4.0
+Goal and Shot Creation GCA Types Sh,Highest,Carlton Morris,3.0
+Goal and Shot Creation GCA Types Sh,Lowest,Aaron Cresswell,0.0
+Goal and Shot Creation GCA Types Sh,Lowest,Aaron Hickey,0.0
+Goal and Shot Creation GCA Types Sh,Lowest,Aaron Ramsdale,0.0
+Goal and Shot Creation GCA Types Fld,Highest,Anthony Gordon,5.0
+Goal and Shot Creation GCA Types Fld,Highest,Chiedozie Ogbene,4.0
+Goal and Shot Creation GCA Types Fld,Highest,Eddie Nketiah,3.0
+Goal and Shot Creation GCA Types Fld,Lowest,Aaron Cresswell,0.0
+Goal and Shot Creation GCA Types Fld,Lowest,Aaron Hickey,0.0
+Goal and Shot Creation GCA Types Fld,Lowest,Aaron Ramsdale,0.0
+Goal and Shot Creation GCA Types Def,Highest,Antony,2.0
+Goal and Shot Creation GCA Types Def,Highest,Cole Palmer,2.0
+Goal and Shot Creation GCA Types Def,Highest,James Garner,2.0
+Goal and Shot Creation GCA Types Def,Lowest,Aaron Cresswell,0.0
+Goal and Shot Creation GCA Types Def,Lowest,Aaron Hickey,0.0
+Goal and Shot Creation GCA Types Def,Lowest,Aaron Ramsdale,0.0
+Defensive Actions Tackles Tkl,Highest,João Palhinha,152.0
+Defensive Actions Tackles Tkl,Highest,João Gomes,128.0
+Defensive Actions Tackles Tkl,Highest,Vinicius Souza,125.0
+Defensive Actions Tackles Tkl,Lowest,Aaron Ramsdale,0.0
+Defensive Actions Tackles Tkl,Lowest,Alisson,0.0
+Defensive Actions Tackles Tkl,Lowest,Bernd Leno,0.0
+Defensive Actions Tackles TklW,Highest,Vinicius Souza,76.0
+Defensive Actions Tackles TklW,Highest,João Palhinha,75.0
+Defensive Actions Tackles TklW,Highest,João Gomes,74.0
+Defensive Actions Tackles TklW,Lowest,Aaron Ramsdale,0.0
+Defensive Actions Tackles TklW,Lowest,Alex Iwobi,0.0
+Defensive Actions Tackles TklW,Lowest,Alexander Isak,0.0
+Defensive Actions Tackles Def 3rd,Highest,João Palhinha,80.0
+Defensive Actions Tackles Def 3rd,Highest,Tyrick Mitchell,75.0
+Defensive Actions Tackles Def 3rd,Highest,João Gomes,67.0
+Defensive Actions Tackles Def 3rd,Lowest,Aaron Ramsdale,0.0
+Defensive Actions Tackles Def 3rd,Lowest,Alisson,0.0
+Defensive Actions Tackles Def 3rd,Lowest,Armando Broja,0.0
+Defensive Actions Tackles Mid 3rd,Highest,João Palhinha,60.0
+Defensive Actions Tackles Mid 3rd,Highest,Vinicius Souza,51.0
+Defensive Actions Tackles Mid 3rd,Highest,Alexis Mac Allister,50.0
+Defensive Actions Tackles Mid 3rd,Lowest,Aaron Ramsdale,0.0
+Defensive Actions Tackles Mid 3rd,Lowest,Alex Iwobi,0.0
+Defensive Actions Tackles Mid 3rd,Lowest,Alfie Gilchrist,0.0
+Defensive Actions Tackles Att 3rd,Highest,Dejan Kulusevski,23.0
+Defensive Actions Tackles Att 3rd,Highest,Bukayo Saka,20.0
+Defensive Actions Tackles Att 3rd,Highest,Conor Gallagher,17.0
+Defensive Actions Tackles Att 3rd,Lowest,Aaron Ramsdale,0.0
+Defensive Actions Tackles Att 3rd,Lowest,Adam Lallana,0.0
+Defensive Actions Tackles Att 3rd,Lowest,Alfie Gilchrist,0.0
+Defensive Actions Challenges Tkl,Highest,João Palhinha,103.0
+Defensive Actions Challenges Tkl,Highest,Pedro Porro,62.0
+Defensive Actions Challenges Tkl,Highest,Alexis Mac Allister,59.0
+Defensive Actions Challenges Tkl,Lowest,Aaron Ramsdale,0.0
+Defensive Actions Challenges Tkl,Lowest,Adam Lallana,0.0
+Defensive Actions Challenges Tkl,Lowest,Alisson,0.0
+Defensive Actions Challenges Att,Highest,João Palhinha,152.0
+Defensive Actions Challenges Att,Highest,Alexis Mac Allister,125.0
+Defensive Actions Challenges Att,Highest,Pedro Porro,120.0
+Defensive Actions Challenges Att,Lowest,Aaron Ramsdale,0.0
+Defensive Actions Challenges Att,Lowest,Benson Manuel,0.0
+Defensive Actions Challenges Att,Lowest,Bernd Leno,0.0
+Defensive Actions Challenges Tkl%,Highest,Aaron Hickey,100.0
+Defensive Actions Challenges Tkl%,Highest,André Onana,100.0
+Defensive Actions Challenges Tkl%,Highest,Anthony Martial,100.0
+Defensive Actions Challenges Tkl%,Lowest,Aaron Ramsdale,0.0
+Defensive Actions Challenges Tkl%,Lowest,Adam Lallana,0.0
+Defensive Actions Challenges Tkl%,Lowest,Alisson,0.0
+Defensive Actions Challenges Lost,Highest,Mathias Jensen,69.0
+Defensive Actions Challenges Lost,Highest,Alexis Mac Allister,66.0
+Defensive Actions Challenges Lost,Highest,Trent Alexander-Arnold,60.0
+Defensive Actions Challenges Lost,Lowest,Aaron Hickey,0.0
+Defensive Actions Challenges Lost,Lowest,Aaron Ramsdale,0.0
+Defensive Actions Challenges Lost,Lowest,André Onana,0.0
+Defensive Actions Blocks Blocks,Highest,James Tarkowski,82.0
+Defensive Actions Blocks Blocks,Highest,Casemiro,74.0
+Defensive Actions Blocks Blocks,Highest,Alexis Mac Allister,65.0
+Defensive Actions Blocks Blocks,Lowest,Aaron Ramsdale,0.0
+Defensive Actions Blocks Blocks,Lowest,Alisson,0.0
+Defensive Actions Blocks Blocks,Lowest,Alphonse Areola,0.0
+Defensive Actions Blocks Sh,Highest,James Tarkowski,56.0
+Defensive Actions Blocks Sh,Highest,Craig Dawson,39.0
+Defensive Actions Blocks Sh,Highest,Fabian Schär,38.0
+Defensive Actions Blocks Sh,Lowest,Aaron Ramsdale,0.0
+Defensive Actions Blocks Sh,Lowest,Adama Traoré,0.0
+Defensive Actions Blocks Sh,Lowest,Alex Iwobi,0.0
+Defensive Actions Blocks Pass,Highest,Alexis Mac Allister,57.0
+Defensive Actions Blocks Pass,Highest,Tyrick Mitchell,53.0
+Defensive Actions Blocks Pass,Highest,Antonee Robinson,48.0
+Defensive Actions Blocks Pass,Lowest,Aaron Ramsdale,0.0
+Defensive Actions Blocks Pass,Lowest,Alisson,0.0
+Defensive Actions Blocks Pass,Lowest,Alphonse Areola,0.0
+Int,Highest,Antonee Robinson,80.0
+Int,Highest,Lewis Cook,65.0
+Int,Highest,Teden Mengi,57.0
+Int,Lowest,Aaron Ramsdale,0.0
+Int,Lowest,Alisson,0.0
+Int,Lowest,Anass Zaroury,0.0
+Tkl+Int,Highest,João Palhinha,198.0
+Tkl+Int,Highest,Antonee Robinson,173.0
+Tkl+Int,Highest,Vinicius Souza,157.0
+Tkl+Int,Lowest,Aaron Ramsdale,0.0
+Tkl+Int,Lowest,Alisson,0.0
+Tkl+Int,Lowest,Bernd Leno,0.0
+Clr,Highest,Joachim Andersen,207.0
+Clr,Highest,James Tarkowski,191.0
+Clr,Highest,Murillo,188.0
+Clr,Lowest,Alex Iwobi,0.0
+Clr,Lowest,Arnaut Danjuma,0.0
+Clr,Lowest,Benson Manuel,0.0
+Err,Highest,Wes Foderingham,6.0
+Err,Highest,David Raya,5.0
+Err,Highest,Destiny Udogie,5.0
+Err,Lowest,Aaron Cresswell,0.0
+Err,Lowest,Aaron Hickey,0.0
+Err,Lowest,Aaron Ramsey,0.0
+Possession Touches Touches,Highest,Rodri,3988.0
+Possession Touches Touches,Highest,Pascal Groß,3534.0
+Possession Touches Touches,Highest,Lewis Dunk,3481.0
+Possession Touches Touches,Lowest,Leon Chiwome,39.0
+Possession Touches Touches,Lowest,Neal Maupay,40.0
+Possession Touches Touches,Lowest,John Fleck,49.0
+Possession Touches Def Pen,Highest,Bernd Leno,1275.0
+Possession Touches Def Pen,Highest,Mark Flekken,1268.0
+Possession Touches Def Pen,Highest,Guglielmo Vicario,1252.0
+Possession Touches Def Pen,Lowest,Alex Iwobi,0.0
+Possession Touches Def Pen,Lowest,Benson Manuel,0.0
+Possession Touches Def Pen,Lowest,Kieffer Moore,0.0
+Possession Touches Def 3rd,Highest,Lewis Dunk,1811.0
+Possession Touches Def 3rd,Highest,Guglielmo Vicario,1664.0
+Possession Touches Def 3rd,Highest,Bernd Leno,1645.0
+Possession Touches Def 3rd,Lowest,Neal Maupay,1.0
+Possession Touches Def 3rd,Lowest,Kieffer Moore,2.0
+Possession Touches Def 3rd,Lowest,Alex Iwobi,5.0
+Possession Touches Mid 3rd,Highest,Rodri,2337.0
+Possession Touches Mid 3rd,Highest,Virgil van Dijk,1757.0
+Possession Touches Mid 3rd,Highest,William Saliba,1720.0
+Possession Touches Mid 3rd,Lowest,Dean Henderson,0.0
+Possession Touches Mid 3rd,Lowest,Ionuț Radu,0.0
+Possession Touches Mid 3rd,Lowest,Mark Travers,0.0
+Possession Touches Att 3rd,Highest,Bukayo Saka,1310.0
+Possession Touches Att 3rd,Highest,Phil Foden,1211.0
+Possession Touches Att 3rd,Highest,Martin Ødegaard,1173.0
+Possession Touches Att 3rd,Lowest,Aaron Ramsdale,0.0
+Possession Touches Att 3rd,Lowest,Alisson,0.0
+Possession Touches Att 3rd,Lowest,Alphonse Areola,0.0
+Possession Touches Att Pen,Highest,Bukayo Saka,271.0
+Possession Touches Att Pen,Highest,Alejandro Garnacho,248.0
+Possession Touches Att Pen,Highest,Mohamed Salah,241.0
+Possession Touches Att Pen,Lowest,Aaron Ramsdale,0.0
+Possession Touches Att Pen,Lowest,Alisson,0.0
+Possession Touches Att Pen,Lowest,Alphonse Areola,0.0
+Possession Touches Live,Highest,Rodri,3988.0
+Possession Touches Live,Highest,Pascal Groß,3533.0
+Possession Touches Live,Highest,Lewis Dunk,3481.0
+Possession Touches Live,Lowest,Leon Chiwome,39.0
+Possession Touches Live,Lowest,Neal Maupay,40.0
+Possession Touches Live,Lowest,John Fleck,49.0
+Possession Take-Ons Att,Highest,Mohammed Kudus,221.0
+Possession Take-Ons Att,Highest,Jeremy Doku,169.0
+Possession Take-Ons Att,Highest,Eberechi Eze,140.0
+Possession Take-Ons Att,Lowest,Aaron Ramsdale,0.0
+Possession Take-Ons Att,Lowest,Alisson,0.0
+Possession Take-Ons Att,Lowest,Andrew Omobamidele,0.0
+Possession Take-Ons Succ,Highest,Mohammed Kudus,124.0
+Possession Take-Ons Succ,Highest,Jeremy Doku,87.0
+Possession Take-Ons Succ,Highest,Bruno Guimarães,72.0
+Possession Take-Ons Succ,Lowest,Aaron Cresswell,0.0
+Possession Take-Ons Succ,Lowest,Aaron Ramsdale,0.0
+Possession Take-Ons Succ,Lowest,Adam Webster,0.0
+Possession Take-Ons Succ%,Highest,Alfie Gilchrist,100.0
+Possession Take-Ons Succ%,Highest,Alphonse Areola,100.0
+Possession Take-Ons Succ%,Highest,André Onana,100.0
+Possession Take-Ons Succ%,Lowest,Aaron Cresswell,0.0
+Possession Take-Ons Succ%,Lowest,Aaron Ramsdale,0.0
+Possession Take-Ons Succ%,Lowest,Adam Webster,0.0
+Possession Take-Ons Tkld,Highest,Mohammed Kudus,77.0
+Possession Take-Ons Tkld,Highest,Raheem Sterling,70.0
+Possession Take-Ons Tkld,Highest,Dejan Kulusevski,66.0
+Possession Take-Ons Tkld,Lowest,Aaron Ramsdale,0.0
+Possession Take-Ons Tkld,Lowest,Alfie Gilchrist,0.0
+Possession Take-Ons Tkld,Lowest,Alisson,0.0
+Possession Take-Ons Tkld%,Highest,Aaron Cresswell,100.0
+Possession Take-Ons Tkld%,Highest,Adam Webster,100.0
+Possession Take-Ons Tkld%,Highest,Connor Roberts,100.0
+Possession Take-Ons Tkld%,Lowest,Aaron Ramsdale,0.0
+Possession Take-Ons Tkld%,Lowest,Alfie Gilchrist,0.0
+Possession Take-Ons Tkld%,Lowest,Alisson,0.0
+Possession Carries Carries,Highest,Rodri,2513.0
+Possession Carries Carries,Highest,Lewis Dunk,2417.0
+Possession Carries Carries,Highest,Pascal Groß,2284.0
+Possession Carries Carries,Lowest,Leon Chiwome,16.0
+Possession Carries Carries,Lowest,John Fleck,19.0
+Possession Carries Carries,Lowest,Neal Maupay,20.0
+Possession Carries TotDist,Highest,Rodri,11575.0
+Possession Carries TotDist,Highest,Rúben Dias,10862.0
+Possession Carries TotDist,Highest,Lewis Dunk,10752.0
+Possession Carries TotDist,Lowest,John Fleck,81.0
+Possession Carries TotDist,Lowest,Leon Chiwome,86.0
+Possession Carries TotDist,Lowest,Nathan Fraser,88.0
+Possession Carries PrgDist,Highest,Rúben Dias,6693.0
+Possession Carries PrgDist,Highest,Rodri,6408.0
+Possession Carries PrgDist,Highest,Jan Paul van Hecke,6274.0
+Possession Carries PrgDist,Lowest,Nathan Fraser,22.0
+Possession Carries PrgDist,Lowest,Leander Dendoncker,27.0
+Possession Carries PrgDist,Lowest,Luke Berry,30.0
+Possession Carries PrgC,Highest,Jeremy Doku,218.0
+Possession Carries PrgC,Highest,Alejandro Garnacho,178.0
+Possession Carries PrgC,Highest,Bukayo Saka,155.0
+Possession Carries PrgC,Lowest,Aaron Ramsdale,0.0
+Possession Carries PrgC,Lowest,Alisson,0.0
+Possession Carries PrgC,Lowest,Alphonse Areola,0.0
+Possession Carries 1/3,Highest,Rodri,88.0
+Possession Carries 1/3,Highest,Alejandro Garnacho,83.0
+Possession Carries 1/3,Highest,Martin Ødegaard,83.0
+Possession Carries 1/3,Lowest,Aaron Ramsdale,0.0
+Possession Carries 1/3,Lowest,Alisson,0.0
+Possession Carries 1/3,Lowest,Andrew Omobamidele,0.0
+Possession Carries CPA,Highest,Jeremy Doku,147.0
+Possession Carries CPA,Highest,Alejandro Garnacho,102.0
+Possession Carries CPA,Highest,Dejan Kulusevski,82.0
+Possession Carries CPA,Lowest,Aaron Cresswell,0.0
+Possession Carries CPA,Lowest,Aaron Ramsdale,0.0
+Possession Carries CPA,Lowest,Adam Webster,0.0
+Possession Carries Mis,Highest,Dominic Solanke,136.0
+Possession Carries Mis,Highest,Jean-Philippe Mateta,89.0
+Possession Carries Mis,Highest,Nicolas Jackson,87.0
+Possession Carries Mis,Lowest,Aaron Cresswell,0.0
+Possession Carries Mis,Lowest,Alphonse Areola,0.0
+Possession Carries Mis,Lowest,Angelo Ogbonna,0.0
+Possession Carries Dis,Highest,Mohammed Kudus,93.0
+Possession Carries Dis,Highest,Dominic Solanke,81.0
+Possession Carries Dis,Highest,Lucas Paquetá,81.0
+Possession Carries Dis,Lowest,Aaron Ramsdale,0.0
+Possession Carries Dis,Lowest,Alisson,0.0
+Possession Carries Dis,Lowest,Alphonse Areola,0.0
+Possession Receiving Rec,Highest,Rodri,3242.0
+Possession Receiving Rec,Highest,Pascal Groß,2736.0
+Possession Receiving Rec,Highest,Lewis Dunk,2681.0
+Possession Receiving Rec,Lowest,Leon Chiwome,18.0
+Possession Receiving Rec,Lowest,John Fleck,27.0
+Possession Receiving Rec,Lowest,Neal Maupay,28.0
+Possession Receiving PrgR,Highest,Bukayo Saka,508.0
+Possession Receiving PrgR,Highest,Dejan Kulusevski,388.0
+Possession Receiving PrgR,Highest,Gabriel Martinelli,345.0
+Possession Receiving PrgR,Lowest,Aaron Ramsdale,0.0
+Possession Receiving PrgR,Lowest,Alisson,0.0
+Possession Receiving PrgR,Lowest,Alphonse Areola,0.0
+Playing Time Starts Starts,Highest,André Onana,38.0
+Playing Time Starts Starts,Highest,Bernd Leno,38.0
+Playing Time Starts Starts,Highest,Guglielmo Vicario,38.0
+Playing Time Starts Starts,Lowest,David Ozoh,0.0
+Playing Time Starts Starts,Lowest,Ivan Perišić,0.0
+Playing Time Starts Starts,Lowest,Jesurun Rak Sakyi,0.0
+Playing Time Starts Mn/Start,Highest,Aaron Ramsdale,90.0
+Playing Time Starts Mn/Start,Highest,Alisson,90.0
+Playing Time Starts Mn/Start,Highest,Andrew Omobamidele,90.0
+Playing Time Starts Mn/Start,Lowest,David Ozoh,0.0
+Playing Time Starts Mn/Start,Lowest,Ivan Perišić,0.0
+Playing Time Starts Mn/Start,Lowest,Jesurun Rak Sakyi,0.0
+Playing Time Starts Compl,Highest,André Onana,38.0
+Playing Time Starts Compl,Highest,Bernd Leno,38.0
+Playing Time Starts Compl,Highest,Guglielmo Vicario,38.0
+Playing Time Starts Compl,Lowest,Aaron Ramsey,0.0
+Playing Time Starts Compl,Lowest,Adam Lallana,0.0
+Playing Time Starts Compl,Lowest,Adama Traoré,0.0
+Playing Time Subs Subs,Highest,Pierre Højbjerg,28.0
+Playing Time Subs Subs,Highest,Harvey Elliott,23.0
+Playing Time Subs Subs,Highest,Cauley Woodrow,22.0
+Playing Time Subs Subs,Lowest,Aaron Hickey,0.0
+Playing Time Subs Subs,Lowest,Aaron Ramsdale,0.0
+Playing Time Subs Subs,Lowest,Abdoulaye Doucouré,0.0
+Playing Time Subs Mn/Sub,Highest,Anthony Gordon,79.0
+Playing Time Subs Mn/Sub,Highest,Adam Wharton,63.0
+Playing Time Subs Mn/Sub,Highest,Daniel Bentley,57.0
+Playing Time Subs Mn/Sub,Lowest,Aaron Hickey,0.0
+Playing Time Subs Mn/Sub,Lowest,Aaron Ramsdale,0.0
+Playing Time Subs Mn/Sub,Lowest,Abdoulaye Doucouré,0.0
+Playing Time Subs unSub,Highest,Daniel Bentley,33.0
+Playing Time Subs unSub,Highest,Thomas Strakosha,32.0
+Playing Time Subs unSub,Highest,Aaron Ramsdale,31.0
+Playing Time Subs unSub,Lowest,Aaron Hickey,0.0
+Playing Time Subs unSub,Lowest,Abdoulaye Doucouré,0.0
+Playing Time Subs unSub,Lowest,Adam Wharton,0.0
+Playing Time Team Success PPM,Highest,Thomas Partey,2.71
+Playing Time Team Success PPM,Highest,Aaron Ramsdale,2.67
+Playing Time Team Success PPM,Highest,Kevin De Bruyne,2.67
+Playing Time Team Success PPM,Lowest,Alex Iwobi,0.0
+Playing Time Team Success PPM,Lowest,John Fleck,0.0
+Playing Time Team Success PPM,Lowest,Matheus Nunes,0.0
+Playing Time Team Success onG,Highest,William Saliba,91.0
+Playing Time Team Success onG,Highest,Rodri,87.0
+Playing Time Team Success onG,Highest,Declan Rice,84.0
+Playing Time Team Success onG,Lowest,Alex Iwobi,0.0
+Playing Time Team Success onG,Lowest,Benson Manuel,0.0
+Playing Time Team Success onG,Lowest,Neal Maupay,0.0
+Playing Time Team Success onGA,Highest,Anel Ahmedhodžić,89.0
+Playing Time Team Success onGA,Highest,Thomas Kaminski,85.0
+Playing Time Team Success onGA,Highest,Gustavo Hamer,83.0
+Playing Time Team Success onGA,Lowest,Hannibal Mejbri,1.0
+Playing Time Team Success onGA,Lowest,Ivan Perišić,1.0
+Playing Time Team Success onGA,Lowest,Reiss Nelson,1.0
+Playing Time Team Success (xG) onxG,Highest,Virgil van Dijk,82.1
+Playing Time Team Success (xG) onxG,Highest,William Saliba,76.1
+Playing Time Team Success (xG) onxG,Highest,Bruno Guimarães,74.0
+Playing Time Team Success (xG) onxG,Lowest,Benson Manuel,0.5
+Playing Time Team Success (xG) onxG,Lowest,Jaidon Anthony,0.6
+Playing Time Team Success (xG) onxG,Lowest,Tawanda Chirewa,0.8
+Playing Time Team Success (xG) onxGA,Highest,Thomas Kaminski,77.6
+Playing Time Team Success (xG) onxGA,Highest,André Onana,68.9
+Playing Time Team Success (xG) onxGA,Highest,Max Kilman,67.7
+Playing Time Team Success (xG) onxGA,Lowest,Ivan Perišić,1.5
+Playing Time Team Success (xG) onxGA,Lowest,Neal Maupay,1.5
+Playing Time Team Success (xG) onxGA,Lowest,Tawanda Chirewa,1.5
+Miscellaneous Stats Performance Fls,Highest,Conor Gallagher,83.0
+Miscellaneous Stats Performance Fls,Highest,João Gomes,66.0
+Miscellaneous Stats Performance Fls,Highest,Dejan Kulusevski,54.0
+Miscellaneous Stats Performance Fls,Lowest,Aaron Ramsdale,0.0
+Miscellaneous Stats Performance Fls,Lowest,Alex Iwobi,0.0
+Miscellaneous Stats Performance Fls,Lowest,Arijanet Muric,0.0
+Miscellaneous Stats Performance Fld,Highest,Bruno Guimarães,108.0
+Miscellaneous Stats Performance Fld,Highest,Jordan Ayew,94.0
+Miscellaneous Stats Performance Fld,Highest,Mohammed Kudus,75.0
+Miscellaneous Stats Performance Fld,Lowest,Alex Iwobi,0.0
+Miscellaneous Stats Performance Fld,Lowest,Alfie Gilchrist,0.0
+Miscellaneous Stats Performance Fld,Lowest,Caoimhín Kelleher,0.0
+Miscellaneous Stats Performance Off,Highest,Darwin Núñez,33.0
+Miscellaneous Stats Performance Off,Highest,Nicolas Jackson,28.0
+Miscellaneous Stats Performance Off,Highest,Dominic Calvert-Lewin,24.0
+Miscellaneous Stats Performance Off,Lowest,Aaron Hickey,0.0
+Miscellaneous Stats Performance Off,Lowest,Aaron Ramsdale,0.0
+Miscellaneous Stats Performance Off,Lowest,Aaron Wan-Bissaka,0.0
+Miscellaneous Stats Performance Crs,Highest,Alfie Doughty,340.0
+Miscellaneous Stats Performance Crs,Highest,Pascal Groß,238.0
+Miscellaneous Stats Performance Crs,Highest,Dwight McNeil,229.0
+Miscellaneous Stats Performance Crs,Lowest,Aaron Ramsdale,0.0
+Miscellaneous Stats Performance Crs,Lowest,Alisson,0.0
+Miscellaneous Stats Performance Crs,Lowest,Alphonse Areola,0.0
+Miscellaneous Stats Performance OG,Highest,Antonee Robinson,2.0
+Miscellaneous Stats Performance OG,Highest,Daiki Hashioka,2.0
+Miscellaneous Stats Performance OG,Highest,Emiliano Martínez,2.0
+Miscellaneous Stats Performance OG,Lowest,Aaron Cresswell,0.0
+Miscellaneous Stats Performance OG,Lowest,Aaron Hickey,0.0
+Miscellaneous Stats Performance OG,Lowest,Aaron Ramsdale,0.0
+Miscellaneous Stats Performance Recov,Highest,Bruno Guimarães,237.0
+Miscellaneous Stats Performance Recov,Highest,Rodri,235.0
+Miscellaneous Stats Performance Recov,Highest,Ryan Christie,231.0
+Miscellaneous Stats Performance Recov,Lowest,Ionuț Radu,0.0
+Miscellaneous Stats Performance Recov,Lowest,Mark Travers,1.0
+Miscellaneous Stats Performance Recov,Lowest,Thomas Strakosha,1.0
+Miscellaneous Stats Aerial Duels Won,Highest,James Tarkowski,140.0
+Miscellaneous Stats Aerial Duels Won,Highest,Virgil van Dijk,140.0
+Miscellaneous Stats Aerial Duels Won,Highest,Dominic Calvert-Lewin,137.0
+Miscellaneous Stats Aerial Duels Won,Lowest,Aaron Ramsdale,0.0
+Miscellaneous Stats Aerial Duels Won,Lowest,Alex Iwobi,0.0
+Miscellaneous Stats Aerial Duels Won,Lowest,Anass Zaroury,0.0
+Miscellaneous Stats Aerial Duels Lost,Highest,Carlton Morris,169.0
+Miscellaneous Stats Aerial Duels Lost,Highest,Dominic Calvert-Lewin,144.0
+Miscellaneous Stats Aerial Duels Lost,Highest,Dominic Solanke,135.0
+Miscellaneous Stats Aerial Duels Lost,Lowest,Aaron Ramsdale,0.0
+Miscellaneous Stats Aerial Duels Lost,Lowest,Alex Iwobi,0.0
+Miscellaneous Stats Aerial Duels Lost,Lowest,Arijanet Muric,0.0
+Miscellaneous Stats Aerial Duels Won%,Highest,Arijanet Muric,100.0
+Miscellaneous Stats Aerial Duels Won%,Highest,Bart Verbruggen,100.0
+Miscellaneous Stats Aerial Duels Won%,Highest,Caoimhín Kelleher,100.0
+Miscellaneous Stats Aerial Duels Won%,Lowest,Aaron Ramsdale,0.0
+Miscellaneous Stats Aerial Duels Won%,Lowest,Alex Iwobi,0.0
+Miscellaneous Stats Aerial Duels Won%,Lowest,Anass Zaroury,0.0
